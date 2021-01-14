@@ -1,0 +1,9 @@
+Origin: laowang Repo
+Label: laowang
+Suite: stable
+Version: 1.0
+Codename: laowang
+Architectures: iphoneos-arm
+Components: main
+Description: laowang Repo
+
