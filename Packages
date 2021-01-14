@@ -13,6 +13,22 @@ Description: 王者完美视距 请自备屏蔽 封号自理 群：560018224
 Author: hsidereal
 Name: SMOBA_FREE
 
+Package: com.yourcompany.joker123
+Version: v1.1b3
+Architecture: iphoneos-arm
+Maintainer: TheJoker&HiJacker
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/AR 小丑新包！.deb
+Size: 573742
+MD5sum: af58931a90520158fbafc31abfccc973
+SHA1: d39315b0277f76776a334e8730d08e3b770e8614
+SHA256: 1eb17f4836c00590219bdd73a3868c9cc13e76ccf741f8ed25dd6b03556429e0
+Section: Tweaks
+Description: Pubg mobile Mod Menu
+Author: TheJoker&HiJacker
+Name: PUBG HACK From TheJoker v1.1b3
+
 Package: wulv.org
 Version: 12.0.4
 Architecture: iphoneos-arm
