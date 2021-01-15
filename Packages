@@ -1,0 +1,38 @@
+Package: tuoniao
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 鸵鸟
+Installed-Size: 777777
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/冷风定制igg.deb
+Size: 404656
+MD5sum: d86ec11e455cf3bdabcf1ecb21b674d0
+SHA1: 50b6392fe6565e00335983342e93af8d66d30fb7
+SHA256: c8c3910d6be37587625210cacb64e9c1e7552cfea0886f1ca0c280f2ad7df66f
+Section: Tweaks
+Description: 鸵鸟
+Author: 鸵鸟
+Name: tuoniao
+
+Package: wulv.org
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: 无虑
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/wulv.deb
+Size: 366732
+MD5sum: 3e45c280cf407c27cbb658de9272056c
+SHA1: 933971f03df67128a8e3d16e4baeede06a5b0fa7
+SHA256: 70a84e36b6d6f3366a26a40ee15eedb5c5b1a1cf03f07fcd979246023a59c748
+Section: Utilities
+Priority: optional
+Homepage: http://www.wulv.org
+Description: 无虑修改版igg，低调稳定奔放无异味。
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: 无虑 <2502801717@qq.com>
+Depiction: http://www.wulv.org
+Dev: aqua
+Name: 无虑iGG过检测版
+Sponsor: 无虑 <2502801717@qq.com>
+
