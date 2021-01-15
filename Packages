@@ -1,0 +1,53 @@
+Package: com.sidereal.kwtap.smobafree
+Version: 2.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/王者完美视距.deb
+Size: 307520
+MD5sum: d6f46fe50e8d53189d1572c1a4431b01
+SHA1: 515e02ef5e1ea3361c2060ec99ba646782a9d3c0
+SHA256: 0516cbe0ab4d1f864175ec3976484936858210993ce1eb37a03c6bd01e4c89b7
+Section: System
+Priority: optional
+Description: 王者完美视距 请自备屏蔽 封号自理 群：560018224
+Author: hsidereal
+Name: SMOBA_FREE
+
+Package: com.yourcompany.joker123
+Version: v1.1b3
+Architecture: iphoneos-arm
+Maintainer: TheJoker&HiJacker
+Installed-Size: 1064
+Depends: mobilesubstrate
+Filename: ./debs/AR 小丑新包！.deb
+Size: 573742
+MD5sum: af58931a90520158fbafc31abfccc973
+SHA1: d39315b0277f76776a334e8730d08e3b770e8614
+SHA256: 1eb17f4836c00590219bdd73a3868c9cc13e76ccf741f8ed25dd6b03556429e0
+Section: Tweaks
+Description: Pubg mobile Mod Menu
+Author: TheJoker&HiJacker
+Name: PUBG HACK From TheJoker v1.1b3
+
+Package: wulv.org
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: 无虑
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/wulv.deb
+Size: 366732
+MD5sum: 3e45c280cf407c27cbb658de9272056c
+SHA1: 933971f03df67128a8e3d16e4baeede06a5b0fa7
+SHA256: 70a84e36b6d6f3366a26a40ee15eedb5c5b1a1cf03f07fcd979246023a59c748
+Section: Utilities
+Priority: optional
+Homepage: http://www.wulv.org
+Description: 无虑修改版igg，低调稳定奔放无异味。
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: 无虑 <2502801717@qq.com>
+Depiction: http://www.wulv.org
+Dev: aqua
+Name: 无虑iGG过检测版
+Sponsor: 无虑 <2502801717@qq.com>
+
