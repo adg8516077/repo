@@ -1,3 +1,17 @@
+Package: draw
+Version: 0.2.9
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/draw(不耗CPU).deb
+Size: 282138
+MD5sum: 62ed1ed95d7bb36738f22553b4b1fb13
+SHA1: ebff2875bc924d48e5e8279573468770144d3f7a
+SHA256: 1d4f9808360414e442f59d5cfaf4d86ef8f4d1172128ee2872a8ab87c8ea75f6
+Section: System
+Priority: optional
+Author: Y
+Name: draw
+
 Package: tuoniao
 Version: 1.0
 Architecture: iphoneos-arm
